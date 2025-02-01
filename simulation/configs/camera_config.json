@@ -1,0 +1,74 @@
+[
+    {
+        "fov": 35,
+        "position": [2.0, 0.0, 1.5],
+        "rotation": [0.0, 0.0, 0.0],
+        "resolution": [1280, 960],
+        "sensor_tick": 0.033,
+        "description": "Narrow_angle_main",
+        "role_name": "front_narrow"
+    },
+    {
+        "fov": 50,
+        "position": [2.0, 0.2, 1.5],
+        "rotation": [0.0, 0.0, 0.0],
+        "resolution": [1280, 960],
+        "sensor_tick": 0.033,
+        "description": "Wide_angle_front",
+        "role_name": "front_wide"
+    },
+    {
+        "fov": 120,
+        "position": [2.0, -0.2, 1.5],
+        "rotation": [0.0, 0.0, 0.0],
+        "resolution": [1280, 960],
+        "sensor_tick": 0.033,
+        "description": "Fish_eye_front",
+        "role_name": "front_fisheye"
+    },
+    {
+        "fov": 100,
+        "position": [1.5, -0.9, 1.2],
+        "rotation": [0.0, -45.0, 0.0],
+        "resolution": [1280, 960],
+        "sensor_tick": 0.033,
+        "description": "Left_forward_side",
+        "role_name": "left_forward"
+    },
+    {
+        "fov": 100,
+        "position": [1.5, 0.9, 1.2],
+        "rotation": [0.0, 45.0, 0.0],
+        "resolution": [1280, 960],
+        "sensor_tick": 0.033,
+        "description": "Right_forward_side",
+        "role_name": "right_forward"
+    },
+    {
+        "fov": 100,
+        "position": [-1.5, -0.9, 1.2],
+        "rotation": [0.0, 175.0, 0.0],
+        "resolution": [1280, 960],
+        "sensor_tick": 0.033,
+        "description": "Left_rearward_side",
+        "role_name": "left_rear"
+    },
+    {
+        "fov": 100,
+        "position": [-1.5, 0.9, 1.2],
+        "rotation": [0.0, -175.0, 0.0],
+        "resolution": [1280, 960],
+        "sensor_tick": 0.033,
+        "description": "Right_rearward_side",
+        "role_name": "right_rear"
+    },
+    {
+        "fov": 150,
+        "position": [-2.0, 0.0, 1.5],
+        "rotation": [0.0, 180.0, 0.0],
+        "resolution": [1280, 960],
+        "sensor_tick": 0.033,
+        "description": "Rear",
+        "role_name": "rear"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "position": [1.5, 0.9, 0.2], 
+        "rotation": [-15, 0, 0], 
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "F_1",
+        "role_name": "front_ultrasonic_1"
+    },
+    {
+        "position": [1.5, 0.6, 0.2], 
+        "rotation": [-10, 0, 0], 
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "F_2",
+        "role_name": "front_ultrasonic_2"
+    },
+    {
+        "position": [1.5, 0.3, 0.2], 
+        "rotation": [-5, 0, 0],  
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "F_3",
+        "role_name": "front_ultrasonic_3"
+    },
+    {
+        "position": [1.5, -0.3, 0.2], 
+        "rotation": [5, 0, 0],  
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "F_4",
+        "role_name": "front_ultrasonic_4"
+    },
+    {
+        "position": [1.5, -0.6, 0.2], 
+        "rotation": [10, 0, 0], 
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "F_5",
+        "role_name": "front_ultrasonic_5"
+    },
+    {
+        "position": [1.5, -0.9, 0.2], 
+        "rotation": [15, 0, 0], 
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "F_6",
+        "role_name": "front_ultrasonic_6"
+    },
+    {
+        "position": [-1.5, 0.9, 0.2], 
+        "rotation": [165, 0, 0], 
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "R_1",
+        "role_name": "rear_ultrasonic_1"
+    },
+    {
+        "position": [-1.5, 0.6, 0.2], 
+        "rotation": [170, 0, 0], 
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "R_2",
+        "role_name": "rear_ultrasonic_2"
+    },
+    {
+        "position": [-1.5, 0.3, 0.2], 
+        "rotation": [175, 0, 0], 
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "R_3",
+        "role_name": "rear_ultrasonic_3"
+    },
+    {
+        "position": [-1.5, -0.3, 0.2], 
+        "rotation": [-175, 0, 0], 
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "R_4",
+        "role_name": "rear_ultrasonic_4"
+    },
+    {
+        "position": [-1.5, -0.6, 0.2], 
+        "rotation": [-170, 0, 0], 
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "R_5",
+        "role_name": "rear_ultrasonic_5"
+    },
+    {
+        "position": [-1.5, -0.9, 0.2], 
+        "rotation": [-165, 0, 0], 
+        "range": 5, 
+        "horizontal_fov": 60, 
+        "vertical_fov": 5, 
+        "sensor_tick": 0.033,
+        "description": "R_6",
+        "role_name": "rear_ultrasonic_6"
+    }
+]

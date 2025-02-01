@@ -1,0 +1,13 @@
+train: /home/sur06423/project/Version_5_exp/Carla_Labeling-5/train/images
+val: /home/sur06423/project/Version_5_exp/Carla_Labeling-5/valid/images
+test: /home/sur06423/project/Version_5_exp/Carla_Labeling-5/test/images
+
+nc: 4
+names: ['Pedestrian', 'Traffic_Signs', 'Vehicle', 'traffic_light']
+
+roboflow:
+  workspace: surajworkplace
+  project: carla_labeling
+  version: 5
+  license: MIT
+  url: https://universe.roboflow.com/surajworkplace/carla_labeling/dataset/5

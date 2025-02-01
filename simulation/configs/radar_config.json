@@ -1,0 +1,12 @@
+[
+    {
+        "role_name": "front_radar",
+        "horizontal_fov": 35,
+        "vertical_fov": 5,
+        "range": 160,
+        "sensor_tick": 0.033,
+        "points_per_second": 1500,
+        "position": [1.0, 0.0, 0.2],
+        "rotation": [0, 0, 0]
+    }
+]
