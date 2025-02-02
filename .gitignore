@@ -1,13 +1,14 @@
 # Ignore the whole dataset
-/Users/surajbhardwaj/Desktop/Github/yolo_project/training/Version_5_exp/Carla_Labeling-5
+training/Version_5_exp/Carla_Labeling-5/
+
 
 # Ignore all checkpoint files inside weights directories
 **/weights/*.pt
 
 # Allow specific checkpoints to be pushed
-!/Users/surajbhardwaj/Desktop/Github/yolo_project/training/Version_5_exp/YOLO_11/v11_m/train/weights/best.pt
-!/Users/surajbhardwaj/Desktop/Github/yolo_project/training/Version_5_exp/YOLO_v8/v8_m/train/weights/best.pt
-!/Users/surajbhardwaj/Desktop/Github/yolo_project/training/Version_5_exp/YOLO_11/v11_m/train/weights/last.pt
+!training/Version_5_exp/YOLO_11/v11_m/train/weights/best.pt
+!training/Version_5_exp/YOLO_v8/v8_m/train/weights/best.pt
+!training/Version_5_exp/YOLO_11/v11_m/train/weights/last.pt
 
 # Ignore all video files (MP4, AVI, MOV, MKV, etc.)
 **/*.mp4
