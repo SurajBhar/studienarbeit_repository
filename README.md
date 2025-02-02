@@ -86,7 +86,7 @@ The repository is organized as follows:
 |   |   |-- dataset.ipynb  # Notebook showing code to download dataset after manual-review and refinement phase from Roboflow
 |   |   |-- evaluation.ipynb       # Notebook containing code for best epoch
 |   |-- requirements.yaml      # Yaml file for "yolov_env" conda environment
-|-- Suraj_Bhardwaj_Studienarbeit.pdf  # PDF of the full report
+|-- SB_Studienarbeit.pdf  # PDF of the full report
 |-- .gitignore                   # Files to ignore during version control
 |-- README.md                    # This file
 ```
